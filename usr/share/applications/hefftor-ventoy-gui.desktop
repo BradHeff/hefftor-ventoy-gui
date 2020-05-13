@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Hefftor Ventoy GUI
+GenericName=Ventoy installation GUI
+X-GNOME-FullName=Hefftor Ventoy GUI
+Comment=install Ventoy to USB with ease
+Exec=hefftor-ventoy-gui
+Icon=hefftorlinux
+Terminal=false
+Type=Application
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=Hefftor;
+StartupNotify=true
